@@ -75,9 +75,6 @@
   @apply p-0.5 bg-gradient-to-br from-blue-500 from-50%  to-purple-600 w-full inset-0 rounded-md
 }
 
-#nprogress .spinner {
-  @apply hidden
-}
 
 
 
